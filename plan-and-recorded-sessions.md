@@ -25,12 +25,14 @@ TBA
 
 # Lectures
 
-Zoom links to the lectures are available in [Canvas](https://uit.instructure.com/courses/22516). 
+Zoom links to the lectures are available in [Canvas](https://uit.instructure.com/courses/22516).
 
 | Day | Time  |
 |-----|-------|
 | Mon | 14-16 |
 | Wed | 09-10 |
+
+*NB: The lecture plan will be updated over the semester.*
 
 | W    | Day       | Ass | Who | Topic                               | foils/notes                             |
 |------|-----------|-----|-----|-------------------------------------|-----------------------------------------|
@@ -69,7 +71,7 @@ Zoom links to the lectures are available in [Canvas](https://uit.instructure.com
 
 
 Links/notes to lecture plan
-1. Please watch [https://blog.golang.org/concurrency-is-not-parallelism](https://blog.golang.org/concurrency-is-not-parallelism) before the lecture. 
+1. Please watch [https://blog.golang.org/concurrency-is-not-parallelism](https://blog.golang.org/concurrency-is-not-parallelism) before the lecture.
 
 # Recorded lectures
 

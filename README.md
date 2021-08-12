@@ -1,4 +1,4 @@
-# Staff 
+# Staff
 
 | Role     | Name                   | Group |
 |----------|------------------------|-------|
@@ -12,9 +12,11 @@
 
 Please see [plan-and-recorded-sessions.md](plan-and-recorded-sessions.md)
 
+
+
 # Other information links
 
+* [Mandatory readings](mandatory-readings.md)
 * [Course description](https://uit.no/utdanning/emner/emne/721868/inf-3201)
-* [rom/lecture slot allocation](https://tp.uio.no/uit/timeplan/timeplan.php?type=course&id[]=INF-3201%2C1&sort=week). *NB* please check the schedule below for the actual lecture schedule. 
+* [rom/lecture slot allocation](https://tp.uio.no/uit/timeplan/timeplan.php?type=course&id[]=INF-3201%2C1&sort=week). *NB* please check the schedule below for the actual lecture schedule.
 * [canvas link (with discord invite)](https://uit.instructure.com/courses/22516)
-
