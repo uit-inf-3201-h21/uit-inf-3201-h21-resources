@@ -27,6 +27,8 @@ TBA
 
 Zoom links to the lectures are available in [Canvas](https://uit.instructure.com/courses/22516).
 
+Lecture notes will be added to [Canvas / Files / Lectures](https://uit.instructure.com/courses/22516/files/folder/lectures). 
+
 | Day | Time  |
 |-----|-------|
 | Mon | 14-16 |
