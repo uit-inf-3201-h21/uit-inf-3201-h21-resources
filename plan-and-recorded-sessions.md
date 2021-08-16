@@ -77,4 +77,5 @@ Links/notes to lecture plan
 
 # Recorded lectures
 
-TBA
+- [2021-08-16 - Introduction](https://mediasite.uit.no/Mediasite/MyMediasite/presentations/f16de062c8fd4be3aae95e67d0701e801d)
+
