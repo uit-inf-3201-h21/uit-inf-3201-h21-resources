@@ -11,7 +11,7 @@
 
 # Recorded presentations of assignments
 
-TBA
+* [presentation of assignmnt 1](https://mediasite.uit.no/Mediasite/Play/1b8c998c6b9c4177a01ae1115dc910b41d)
 
 # Group sessions
 
@@ -42,19 +42,19 @@ Lecture notes will be added to [Canvas / Files / Lectures](https://uit.instructu
 |      | Wed 18.08 |     |     |                                     |                                         |
 | w 34 | Mon 23.08 |     | IR  | Ch2 (Parallel HW and SW)            |                                         |
 |      | Wed 25.08 |     |     |                                     |                                         |
-| w 35 | Mon 30.08 |     |     | Ch3                                 |                                         |
+| w 35 | Mon 30.08 |     | IR  | Ch3                                 |                                         |
 |      | Wed 01.09 | 1.. |     |                                     |                                         |
-| w 36 | Mon 06.09 | 1.. |     | Ch4                                 |                                         |
+| w 36 | Mon 06.09 | 1.. | IR? | Ch4                                 |                                         |
 |      | Wed 08.09 | 1.. |     |                                     |                                         |
-| w 37 | Mon 13.09 | 1.. |     | Ch5                                 |                                         |
+| w 37 | Mon 13.09 | 1.. | IR  | Ch5                                 |                                         |
 |      | Wed 15.09 | 1.. |     |                                     |                                         |
-| w 38 | Mon 20.09 | 1.. |     | Concurrency, CSP                    | Watch 1) (see below) before the lecture |
+| w 38 | Mon 20.09 | 1.. | JMB | Concurrency, CSP                    | Watch 1) (see below) before the lecture |
 |      | Wed 22.09 | .2. |     |                                     |                                         |
 | w 39 | Mon 27.09 | .2. |     | Ch6                                 |                                         |
 |      | Wed 29.09 | .2. |     |                                     |                                         |
-| w 40 | Mon 04.10 | .2. |     | CUDA Introduction                   |                                         |
+| w 40 | Mon 04.10 | .2. | JMB | CUDA Introduction                   |                                         |
 |      | Wed 06.10 | .2. |     |                                     |                                         |
-| w 41 | Mon 11.10 | .2. |     | CUDA Optimization                   |                                         |
+| w 41 | Mon 11.10 | .2. | JMB | CUDA Optimization                   |                                         |
 |      | Wed 13.10 | ..3 |     |                                     |                                         |
 | w 42 | Mon 18.10 | ..3 | JMB | GPU vs. CPU, NumPy                  |                                         |
 |      | Wed 20.10 | ..3 |     |                                     |                                         |
