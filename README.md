@@ -6,7 +6,7 @@
 | Lectures | Issam Rais             |       |
 | TA       | Jo Inge Arnes          | 1     |
 | TA       | Yigit Can Dundar       | 2     |
-| TA       | Roopam Bamal           | 3     |
+| TA       | Sergiusz Michalik      | 3     |
 
 # Information about lectures, group sessions and assignment presentations
 
