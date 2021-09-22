@@ -12,6 +12,7 @@
 # Recorded presentations of assignments
 
 * [Presentation of assignment 1](https://mediasite.uit.no/Mediasite/Play/1b8c998c6b9c4177a01ae1115dc910b41d)
+* [Presentation of assignment 2](https://mediasite.uit.no/Mediasite/Play/8a5ec87d92ee41e197a371fe64a7d20c1d)
 
 # Group sessions
 
