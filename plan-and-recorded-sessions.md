@@ -45,13 +45,13 @@ Lecture notes will be added to [Canvas / Files / Lectures](https://uit.instructu
 |      | Wed 25.08 |     |     |                                     |                                         |
 | w 35 | Mon 30.08 |     | IR  | Ch3                                 |                                         |
 |      | Wed 01.09 | 1.. |     |                                     |                                         |
-| w 36 | Mon 06.09 | 1.. | IR? | Ch4                                 |                                         |
+| w 36 | Mon 06.09 | 1.. | IR  | Ch4                                 |                                         |
 |      | Wed 08.09 | 1.. |     |                                     |                                         |
 | w 37 | Mon 13.09 | 1.. | IR  | Ch5                                 |                                         |
 |      | Wed 15.09 | 1.. |     |                                     |                                         |
-| w 38 | Mon 20.09 | 1.. | JMB | Concurrency, CSP                    | Watch 1) (see below) before the lecture |
+| w 38 | Mon 20.09 | 1.. | x   | postponed                           |                                         |
 |      | Wed 22.09 | .2. |     |                                     |                                         |
-| w 39 | Mon 27.09 | .2. |     | Ch6                                 |                                         |
+| w 39 | Mon 27.09 | .2. | JMB |  Concurrency, CSP                   | Watch 1) (see below) before the lecture |
 |      | Wed 29.09 | .2. |     |                                     |                                         |
 | w 40 | Mon 04.10 | .2. | JMB | CUDA Introduction                   |                                         |
 |      | Wed 06.10 | .2. |     |                                     |                                         |
@@ -59,7 +59,7 @@ Lecture notes will be added to [Canvas / Files / Lectures](https://uit.instructu
 |      | Wed 13.10 | ..3 |     |                                     |                                         |
 | w 42 | Mon 18.10 | ..3 | JMB | GPU vs. CPU, NumPy                  |                                         |
 |      | Wed 20.10 | ..3 |     |                                     |                                         |
-| w 43 | Mon 25.10 | ..3 |     | TBA                                 |                                         |
+| w 43 | Mon 25.10 | ..3 |     | TBA (Ch6?)                          |                                         |
 |      | Wed 27.10 | ..3 |     |                                     |                                         |
 | w 44 | Mon 01.11 | ..3 |     | TBA                                 |                                         |
 |      | Wed 03.11 |     |     |                                     |                                         |
