@@ -1,6 +1,8 @@
 INF-3201 2021
 ==============
 
+* Update 2021-10-21: Chapter 6 and the CSP is removed from mandatory readings (this year). See notes further down. 
+
 Mandatory readings
 ----------------
 
@@ -9,18 +11,26 @@ Mandatory readings
   - eBook ISBN: 9780080921440
   - [https://www.elsevier.com/books/an-introduction-to-parallel-programming/pacheco/978-0-12-374260-5](https://www.elsevier.com/books/an-introduction-to-parallel-programming/pacheco/978-0-12-374260-5)
   - NB: the main textbook will probably be replaced next year (in case you plan to sell the textbook used).
-* p666-hoare.pdf in Files/articles (in Canvas).
+  - NB2: Not chapter 6. 
 * Cuda Programming Guide, chapters 1-4. [http://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html](http://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
 * CUDA Best Practices Guide, chapters 5-9. [http://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html](http://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html)
 * Lee et al. Debunking the 100X GPU vs. CPU Myth: An Evaluation of Throughput Computing on CPU and GPU, ISCA 2010. [http://dl.acm.org/citation.cfm?id=1816038.1816021](http://dl.acm.org/citation.cfm?id=1816038.1816021)
 * Thread pools/executors and futures. [https://docs.python.org/3/library/concurrent.futures.html](https://docs.python.org/3/library/concurrent.futures.html) (example also shown in foilset 15)
-*  All lectures, lecture notes, precept notes and topics notes.
+* All lectures, lecture notes, precept notes and topics notes.
 * All projects and exercises.
 
 
 Some notes on mandatory readings:
 
 * The Lee paper from ISCA (“Debunking...”): you don't need to remember anything about the kernels. The main part here is lessons learned about optimizations for the different architectures, architecture differences and how they compared them.
+  
+
+Removed from mandatory readings (for this year): 
+-------------------------------
+* Chapter 6 of the main book. 
+* p666-hoare.pdf in Files/articles (in Canvas).  The alternative text has disappeared. We need to find an alternative text. 
+
+Notes about CSP 
 * CSP: Communicating Sequential Processes (Hoare 1978, p666-hoare.pdf in Resources/Articles). We’re after the concept and ideas; don’t worry about remembering the syntax exactly or remembering the examples. You may also want to read the IBM developerworks article ([https://www.ibm.com/developerworks/java/library/j-csp1/index.html](https://www.ibm.com/developerworks/java/library/j-csp1/index.html)) if you find that easier to read (part 1-3). You should be able to translate between process network drawings and simple pseudo code programs (PyCSP from the foils is ok).
   - TODO: the JCSP link no longer works.
 

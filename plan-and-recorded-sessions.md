@@ -59,11 +59,11 @@ Lecture notes will be added to [Canvas / Files / Lectures](https://uit.instructu
 |      | Wed 13.10 | ..3 |     |                                     |                                         |
 | w 42 | Mon 18.10 | ..3 | JMB | GPU vs. CPU, NumPy                  |                                         |
 |      | Wed 20.10 | ..3 |     |                                     |                                         |
-| w 43 | Mon 25.10 | ..3 |     | TBA (Ch6?)                          |                                         |
+| w 43 | Mon 25.10 | ..3 |     | No lecture                          |                                         |
 |      | Wed 27.10 | ..3 |     |                                     |                                         |
-| w 44 | Mon 01.11 | ..3 |     | TBA                                 |                                         |
+| w 44 | Mon 01.11 | ..3 | JMB | Libraries, NumPy                    |                                         |
 |      | Wed 03.11 |     |     |                                     |                                         |
-| w 45 | Mon 08.11 |     |     | Libraries                           |                                         |
+| w 45 | Mon 08.11 |     |     | TBA                                 |                                         |
 |      | Wed 10.11 |     |     |                                     |                                         |
 | w 46 | Mon 15.11 |     |     | Exam wrap-up                        |                                         |
 |      | Wed 17.11 |     |     |                                     |                                         |
