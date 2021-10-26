@@ -65,7 +65,7 @@ Lecture notes will be added to [Canvas / Files / Lectures](https://uit.instructu
 |      | Wed 03.11 |     |     |                                     |                                         |
 | w 45 | Mon 08.11 |     |     | TBA                                 |                                         |
 |      | Wed 10.11 |     |     |                                     |                                         |
-| w 46 | Mon 15.11 |     |     | Exam wrap-up                        |                                         |
+| w 46 | Mon 15.11 |     |     | Exam wrap-up + eval                 |                                         |
 |      | Wed 17.11 |     |     |                                     |                                         |
 | w 47 | Mon 22.11 |     |     |                                     |                                         |
 |      | Wed 24.11 |     |     |                                     |                                         |
