@@ -51,7 +51,7 @@ Lecture notes will be added to [Canvas / Files / Lectures](https://uit.instructu
 |      | Wed 15.09 | 1.. |     |                                     |                                         |
 | w 38 | Mon 20.09 | 1.. | x   | postponed                           |                                         |
 |      | Wed 22.09 | .2. |     |                                     |                                         |
-| w 39 | Mon 27.09 | .2. | JMB |  Concurrency, CSP                   | Watch 1) (see below) before the lecture |
+| w 39 | Mon 27.09 | .2. | JMB | Concurrency, CSP                    | Watch 1) (see below) before the lecture |
 |      | Wed 29.09 | .2. |     |                                     |                                         |
 | w 40 | Mon 04.10 | .2. | JMB | CUDA Introduction                   |                                         |
 |      | Wed 06.10 | .2. |     |                                     |                                         |
@@ -63,7 +63,7 @@ Lecture notes will be added to [Canvas / Files / Lectures](https://uit.instructu
 |      | Wed 27.10 | ..3 |     |                                     |                                         |
 | w 44 | Mon 01.11 | ..3 | JMB | Libraries, NumPy                    |                                         |
 |      | Wed 03.11 |     |     |                                     |                                         |
-| w 45 | Mon 08.11 |     |     | TBA                                 |                                         |
+| w 45 | Mon 08.11 |     |     | No lecture                          |                                         |
 |      | Wed 10.11 |     |     |                                     |                                         |
 | w 46 | Mon 15.11 |     |     | Exam wrap-up + eval                 |                                         |
 |      | Wed 17.11 |     |     |                                     |                                         |
