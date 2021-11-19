@@ -12,6 +12,7 @@ Mandatory readings
   - [https://www.elsevier.com/books/an-introduction-to-parallel-programming/pacheco/978-0-12-374260-5](https://www.elsevier.com/books/an-introduction-to-parallel-programming/pacheco/978-0-12-374260-5)
   - NB: the main textbook will probably be replaced next year (in case you plan to sell the textbook used).
   - NB2: Not chapter 6. 
+  - [https://booksite.elsevier.com/9780123742605/?ISBN=9780123742605](https://booksite.elsevier.com/9780123742605/?ISBN=9780123742605) - link to original foils and course materials from the book's home page.
 * Cuda Programming Guide, chapters 1-4. [http://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html](http://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
 * CUDA Best Practices Guide, chapters 5-9. [http://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html](http://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html)
 * Lee et al. Debunking the 100X GPU vs. CPU Myth: An Evaluation of Throughput Computing on CPU and GPU, ISCA 2010. [http://dl.acm.org/citation.cfm?id=1816038.1816021](http://dl.acm.org/citation.cfm?id=1816038.1816021)
